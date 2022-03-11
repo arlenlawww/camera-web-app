@@ -1,2 +1,2 @@
 # camera-web-app
-A website that open your camera with taking photo's function
+A website that opens your camera with taking photo function
